@@ -18,7 +18,7 @@ ab -n 100 -c 1 http://ip-maquina/prueba.html
 
 ![Requests per second media](Imagenes/imagen3.PNG) 
 
-#http://download.joedog.org/siege##Desviacion
+##Desviacion
 
 ![Time taken desviacion](Imagenes/imagen4.PNG) 
 
